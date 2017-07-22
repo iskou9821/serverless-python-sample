@@ -1,0 +1,15 @@
+{
+  "name": "serverless-deploy-test",
+  "version": "1.0.0",
+  "description": "serverless framework deploy test",
+  "main": "index.js",
+  "dependencies": {
+    "serverless-wsgi": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
